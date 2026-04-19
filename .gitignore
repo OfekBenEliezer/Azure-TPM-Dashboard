@@ -1,0 +1,9 @@
+# Generated ARM template (build output from Bicep)
+dashboard-workbook.json
+
+# Azure deployment artifacts
+*.parameters.json
+
+# OS files
+.DS_Store
+Thumbs.db
